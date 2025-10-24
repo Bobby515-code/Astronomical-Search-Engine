@@ -230,7 +230,7 @@ python web_app.py --port 5001
 Author
 
 **Bobby** - Computer Science & Astronomy Enthusiast  
-Final Year Project: Astronomical Database & Search Engine
+Astronomical Database & Search Engine
 
 License
 
@@ -257,6 +257,6 @@ If you found this project helpful, please:
 -  Share with others
 -  Give feedback
 
-Live Demo: [astronomical-search-engine.onrender.com](https://astronomical-search-engine.onrender.com)
+Live Demo: {currently in work}
 
-GitHub: [github.com/Bobby515-code/astronomical-search-engine](https://github.com/YOUR_USERNAME/astronomical-search-engine)
+GitHub: [github.com/Bobby515-code/astronomical-search-engine](https://github.com/Bobby515-code/astronomical-search-engine)
